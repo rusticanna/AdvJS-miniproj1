@@ -1,0 +1,13 @@
+body {
+    font-family: arial;
+}
+.container {
+    width: 500px;
+    border-radius: 20px;
+    border: 1px black solid;
+    padding: 15px;
+    background-color: lightblue;
+}
+.results {
+    font-family: arial
+}
